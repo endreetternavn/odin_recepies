@@ -1,1 +1,3 @@
-# odin_recepies
+# odin-recepies
+
+Nå er jeg er vanvittig god koder!
